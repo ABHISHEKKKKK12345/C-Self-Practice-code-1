@@ -2,3 +2,4 @@
 This is my first Git repository for C Self Practice code.
 <br>
 Author - Abhishek Srivastava
+M.tech from NIT - KURUKSHETRA
